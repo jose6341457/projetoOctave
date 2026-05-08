@@ -60,5 +60,3 @@ else
         else
             a = xNS;
         end
-    end
-end
